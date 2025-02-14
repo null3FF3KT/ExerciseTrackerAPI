@@ -1,0 +1,26 @@
+# Binary directories
+**/bin/*
+**/obj/*
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# Solution files
+*.sln
+
+# Project files
+*.csproj
+
+# Config files
+**/appsettings.json
+ExerciseTrackerAPI/appsettings.json
+ExerciseTrackerAPI/ExerciseTrackerAPI/appsettings.json
+
+# Test project
+ExerciseTrackerAPI.Tests/
+
+# HTTP file
+*.http
+
+*.dll
