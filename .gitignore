@@ -1,7 +1,0 @@
-*bin
-*obj
-*appsettings.json
-
-ExerciseTrackerAPI.sln
-ExerciseTrackerAPI.csproj
-ExerciseTrackerAPI.http
